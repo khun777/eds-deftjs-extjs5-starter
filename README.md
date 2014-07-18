@@ -1,4 +1,4 @@
 eds-deftjs-extjs5-starter
 =========================
 
-this is a web starter project of extdirect spring / deftjs/ extjs5 and servlet 3.x
+This is a web starter project of extdirect spring / deftjs/ extjs5 and servlet 3.x, and will use java style configuration rather that xml style configuration.
